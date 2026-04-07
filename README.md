@@ -56,7 +56,7 @@ Files in This Repository :
 
 forest_fire.py - Main Python simulation code
 
-2022ch11028_archie_singh_individual project.pdf - Final project report
+[`Project Report (PDF)`](2022ch11028_archie_singh_individual project.pdf)  
 
 2022ch11028_archie_singh_individual project.tex - LaTeX source file for the report
 
